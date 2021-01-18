@@ -1,0 +1,8 @@
+{
+	"type":"apt",
+	"pkg_list": [{"name":"itaca","key_store":"zero-lliurex-itaca","custom_name":"Itaca administrative management of centers","custom_icon":"itaca.svg"}], 
+	"script": {"name":"/usr/share/zero-lliurex-itaca/itaca_script", "remove":true},
+	"custom_icon_path":"/usr/share/zero-lliurex-itaca/",
+	"zomando":"zero-lliurex-itaca"
+	
+	}

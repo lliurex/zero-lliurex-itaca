@@ -7,7 +7,7 @@ Build-Depends: llxsrchelper,debhelper (>= 10),zero-dev
 Standards-Version: 4.1.2
 
 Package: zero-lliurex-itaca
-Architecture: all
+Architecture: amd64
 Depends: ${misc:Depends},epi-gtk,zero-center
 Description: Itaca Installer
  Browser installer for Itaca with integrated Flash

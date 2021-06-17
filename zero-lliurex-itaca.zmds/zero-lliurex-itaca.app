@@ -1,11 +1,13 @@
 Name=zero-lliurex-itaca
 Name[en]=ITACA administrative management of centers
 Name[es]=ITACA, Gestión administrativa de centros
+Name[qcv]=ITACA, Gestió administrativa de centres
 Name[ca@valencia]=ITACA, Gestió administrativa de centres
 Name[ca_ES]=ITACA, Gestió administrativa de centres
 Comment= Wizart to access ITACA administrative management of centers
 Comment[en]=Wizard to access ITACA, administrative management of centers
 Comment[es]=Asistente para acceder a ITACA, Gestión administrativa de centros
+Comment[qcv]=Assistent per a accedir a ITACA, Gestió administrativa de centres
 Comment[ca@valencia]=Assistent per a accedir a ITACA, Gestió administrativa de centres
 Comment[ca_ES]=Assistent per a accedir a ITACA, Gestió administrativa de centres
 Icon=zero-lliurex-itaca

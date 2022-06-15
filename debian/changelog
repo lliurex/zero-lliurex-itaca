@@ -1,3 +1,9 @@
+zero-lliurex-itaca (0.3.2) lliurex22; urgency=medium
+
+  * Reasign permissions
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 15 Jun 2022 19:27:44 +0200
+
 zero-lliurex-itaca (0.3.1) focal; urgency=medium
 
   * Fixed zero app file

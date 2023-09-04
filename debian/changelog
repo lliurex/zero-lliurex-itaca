@@ -1,0 +1,29 @@
+zero-lliurex-itaca (0.3.2) lliurex22; urgency=medium
+
+  * Reasign permissions
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Wed, 15 Jun 2022 19:27:44 +0200
+
+zero-lliurex-itaca (0.3.1) focal; urgency=medium
+
+  * Fixed zero app file
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Thu, 17 Jun 2021 11:17:35 +0200
+
+zero-lliurex-itaca (0.3) focal; urgency=medium
+
+  * Fixed zero app file
+  
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 25 May 2021 17:43:39 +0200
+
+zero-lliurex-itaca (0.2) focal; urgency=medium
+
+  * Initial release for focal
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Tue, 09 Feb 2021 09:30:34 +0100
+
+zero-lliurex-itaca (0.1) bionic; urgency=medium
+
+  * Initial release
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 18 Jan 2021 12:32:05 +0100

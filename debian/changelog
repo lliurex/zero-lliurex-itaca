@@ -1,3 +1,9 @@
+zero-lliurex-itaca (0.13.2) jammy; urgency=medium
+
+  * Initial release for jammy
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Mon, 04 Sep 2023 09:56:31 +0200
+
 zero-lliurex-itaca (0.3.2) lliurex22; urgency=medium
 
   * Reasign permissions

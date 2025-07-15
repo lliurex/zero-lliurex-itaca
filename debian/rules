@@ -10,10 +10,12 @@
 #export DH_VERBOSE=1
 
 %:
-	dh $@ --with llxsrc,zero
+#	remove LliureX helpers
+#	dh $@ --with llxsrc,zero
+	dh $@
 	
-	
-#override_dh_install:
+# disable dh_install	
+override_dh_install:
 
 #	dllxh_install
 #	dh_install

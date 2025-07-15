@@ -1,3 +1,11 @@
+zero-lliurex-itaca (0.13.3) jammy; urgency=medium
+
+  * Added conflicts with itaca.
+  * From now on, zero-lliurex-itaca is a transitional package to unistall itaca
+    browser, due to end of license on 24 Jul 2025
+
+ -- Luis Garcia Gisbert <luisgg@gmail.com>  Tue, 15 Jul 2025 10:24:07 +0200
+
 zero-lliurex-itaca (0.13.2) jammy; urgency=medium
 
   * Initial release for jammy

@@ -9,5 +9,7 @@ Standards-Version: 4.1.2
 Package: zero-lliurex-itaca
 Architecture: amd64
 Depends: ${misc:Depends},epi-gtk,zero-center
-Description: Itaca Installer
- Browser installer for Itaca with integrated Flash
+Conflicts: itaca
+Description: Transitional package for old Itaca Installer
+ Uninstall Itaca Browser due to end of license on 24 Jul 2025.
+ This package can safely be removed after installation.

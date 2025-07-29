@@ -1,4 +1,4 @@
-zero-lliurex-itaca (0.3.3) jammy; urgency=medium
+zero-lliurex-itaca (0.3.3) focal; urgency=medium
 
   * Added conflicts with itaca.
   * From now on, zero-lliurex-itaca is a transitional package to unistall itaca
